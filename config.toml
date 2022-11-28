@@ -1,0 +1,4 @@
+baseURL = 'https://lienze66.github.io'
+languageCode = 'zh-cn'
+title = '李恩泽的博客'
+theme = 'ananke'
